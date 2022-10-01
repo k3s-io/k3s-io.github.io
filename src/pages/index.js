@@ -88,6 +88,7 @@ k3s kubectl get node `
         <h5>
           1. Download K3s - <a href="https://github.com/k3s-io/k3s/releases/latest">latest release</a>, x86_64, ARMv7, and
           ARM64 are supported
+          <br/>
           2. Run server
         </h5>
         <CodeBlock className="language-sh">{
