@@ -3,7 +3,7 @@
 module.exports = {
   title: 'K3s',
   tagline: '',
-  url: 'https://k3s-io.github.io',
+  url: 'https://www.k3s.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -29,7 +29,7 @@ module.exports = {
       },
       items: [
         {
-          to:  'https://k3s-io.github.io/docs',
+          to:  'https://docs.k3s.io',
           position: 'right',
           label: 'Docs',
           className: 'navbar__docs',
