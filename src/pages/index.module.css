@@ -172,9 +172,9 @@ Below is used for the k3s.io landing page
 }
 
 [data-theme='dark'] .learnMore {
-  background-color:var(--ifm-color-secondary)
+  background-color:var(--ifm-color-primary);
+  color: var(--light);
 }
-
 
 .folder h4 {
   display:inline-block;

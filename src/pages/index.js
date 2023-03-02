@@ -22,7 +22,7 @@ function Landing() {
 # Check for Ready node, takes ~30 seconds 
 sudo k3s kubectl get node `
             }</CodeBlock>
-            <p>For detailed installation, <a href="docs">refer to the docs</a></p>
+            <p>For detailed installation, <a href="https://docs.k3s.io">refer to the docs</a></p>
           </div>
         </div>
       </div>
@@ -53,7 +53,7 @@ sudo k3s kubectl get node `
         <div>
           <h5>Simplified &amp; Secure</h5>
           <p>K3s is packaged as a single
-            &lt;60MB binary that reduces the
+            &lt;70MB binary that reduces the
             dependencies and steps needed
             to install, run and auto-update a
             production Kubernetes cluster.</p>
@@ -78,7 +78,7 @@ sudo k3s kubectl get node `
       <p>The above figure shows the difference 
         between K3s server and K3s agent nodes. 
         For more information,
-        see the <a href="https://k3s-io.github.io/docs/architecture">
+        see the <a href="https://docs.k3s.io/architecture">
         architecture documentation.</a>
       </p>
     </section>
@@ -86,8 +86,8 @@ sudo k3s kubectl get node `
       <div className={index.white}>
         <h2 className={index.textCenter}>Get Started</h2>
         <h5>
-          1. Download K3s - <a href="https://github.com/k3s-io/k3s/releases/latest">latest release</a>, x86_64, ARMv7, and
-          ARM64 are supported
+          1. Download K3s - <a href="https://github.com/k3s-io/k3s/releases/latest">latest release</a>: x86_64, ARMv7, ARM64, and s390x are supported
+          <br/>
           2. Run server
         </h5>
         <CodeBlock className="language-sh">{
@@ -106,11 +106,11 @@ sudo k3s agent --server https://myserver:6443 --token \${NODE_TOKEN}`
           <div className={index.gridTwo}>
             <div>
               <p>Read the latest SUSE Rancher blog on K3s.</p>
-              <a href="https://www.suse.com/c/rancher_blog/introduction-to-k3s/" class="button button--lg button--primary">Blog</a>
+              <a href="https://www.suse.com/c/rancher_blog/when-to-use-k3s-and-rke2/" class="button button--lg button--static">Blog</a>
             </div>
             <div>
               <p>Watch the latest "Up and Running: K3s" Online Training.</p>
-              <a href="https://community.suse.com/courses/6599524" class="button button--lg button--primary">Watch Training</a>
+              <a href="https://community.suse.com/courses/6599524" class="button button--lg button--static">Watch Training</a>
             </div>
           </div>
         </div>

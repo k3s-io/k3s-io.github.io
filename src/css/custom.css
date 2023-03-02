@@ -70,6 +70,11 @@
   color: var(--ifm-color-primary);
 }
 
+.button--static {
+  background-color: #06527a;
+  color: #F3F3F3;
+}
+
 @media (max-width: 768px) {
   #theme-main h1 {
     font-size: 50px !important;
