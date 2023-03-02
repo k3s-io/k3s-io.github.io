@@ -20,7 +20,7 @@ function Landing() {
             <CodeBlock className="language-sh">{
 `curl -sfL https://get.k3s.io | sh - 
 # Check for Ready node, takes ~30 seconds 
-k3s kubectl get node `
+sudo k3s kubectl get node `
             }</CodeBlock>
             <p>For detailed installation, <a href="docs">refer to the docs</a></p>
           </div>
