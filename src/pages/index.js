@@ -117,16 +117,30 @@ sudo k3s agent --server https://myserver:6443 --token \${NODE_TOKEN}`
       </div>
     </section>
     <section className={`${index.bgLight} ${index.cncf} ${index.textCenter}`}>
+
+    <div className={index.gridTwo}>
+
+      <div>
+      <p>Originally developed by</p>
+      <a href='https://www.rancher.com/'><ThemedImage className={index.cncfLogo}
+        sources={{
+          light: '/img/rancher-suse-logo-horizontal-color.png',
+          dark: '/img/rancher-suse-logo-horizontal-white.png',
+        }}
+      /></a>
+      </div>
+
+      <div>
+      <p>K3s is a CNCF Sandbox Project</p>
       <a href='https://www.cncf.io/'><ThemedImage className={index.cncfLogo}
-        alt="Docusaurus themed image"
         sources={{
           light: '/img/cncf-color.png',
           dark: '/img/cncf-white.png',
         }}
       /></a>
-      <p>
-        We are a Cloud Native Computing Foundation sandbox project.
-      </p>
+      </div>
+      
+    </div>
     </section>
     </main>
     </Layout>
