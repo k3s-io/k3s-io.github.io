@@ -32,13 +32,45 @@ module.exports = {
           to:  'https://k3s-io.github.io/docs',
           position: 'right',
           label: 'Docs',
-          className: 'navbar__docs',
+          className: 'navbar__icon navbar__docs',
         },
         {
           to: 'https://github.com/k3s-io/k3s/',
           label: 'GitHub',
           position: 'right',
-          className: 'navbar__github btn btn-secondary icon-github',
+          className: 'navbar__icon navbar__github',
+        },
+        {
+          type: 'dropdown',
+          label: 'More From SUSE',
+          position: 'right',
+          className: 'navbar__docs',
+          items: [
+            {
+              label: 'Rancher',
+              to: 'https://www.rancher.com',
+              className: 'navbar__icon navbar__rancher',
+            },
+            {
+              label: 'Rancher Desktop',
+              to: "https://rancherdesktop.io",
+              className: 'navbar__icon navbar__rd',
+            },
+            {
+              label: 'Longhorn',
+              to: "https://longhorn.io",
+              className: 'navbar__icon navbar__longhorn',
+            },
+            {
+              type: 'html',
+              value: '<hr style="margin: 0.3rem 0;">',
+            },
+            {
+              label: 'More Projects...',
+              to: "https://opensource.suse.com",
+              className: 'navbar__icon navbar__suse',
+            },
+          ],
         },
       ],
     },
