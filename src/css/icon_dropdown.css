@@ -1,0 +1,87 @@
+
+.navbar__icon {
+  font-size: 16px;
+}
+
+.navbar__icon:before {
+  content: "";
+  display: inline-flex;
+  height: 20px;
+  width: 35px;
+  margin-right: 4px;
+  padding-bottom: 7px;
+  background-color: var(--ifm-navbar-link-color);
+}
+
+.navbar__docs {
+  font-size: 18px;
+}
+
+.navbar__docs:hover:before {
+  background-color: var(--ifm-link-color);
+}
+
+.navbar__docs:before {
+  mask:  url(/static/img/icon-docs-mask.png) no-repeat 100% 100%;
+  mask-size: cover;
+  height: 20px;
+  width: 30px;
+  padding-right: 1px;
+  padding-bottom: 9px;
+}
+
+.navbar__github {
+  font-size: 18px;
+}
+
+.navbar__github:hover:before {
+  background-color: var(--ifm-link-color);
+}
+
+.navbar__github:before {
+  mask:  url(/static/img/icon-github-mask.png) no-repeat 100% 100%;
+  mask-size: cover;
+  height: 19px;
+  width: 22px;
+  padding-right: 1px;
+  padding-bottom: 4px;
+}
+
+.navbar__rancher:hover:before {
+  background-color: #2e68e9;
+}
+.navbar__rancher:before {
+  mask: url(/static/img/icon-rancher-mask.png) no-repeat 100% 100%;
+  mask-size: cover;
+  height: 14px;
+  padding-bottom: 2px;
+}
+
+.navbar__rd:hover:before {
+  background-color: #0081be;
+}
+.navbar__rd:before {
+  mask: url(/static/img/icon-rd-mask.png) no-repeat 100% 100%;
+  mask-size: cover;
+  height: 22px;
+}
+
+.navbar__longhorn:hover:before {
+  background-color: #5f224a;
+}
+.navbar__longhorn:before {
+  mask: url(/static/img/icon-longhorn-mask.png) no-repeat 100% 100%;
+  mask-size: cover;
+  height: 20px;
+  padding-bottom: 9px;
+}
+
+.navbar__suse:hover:before {
+  background-color: #30ba78;
+}
+.navbar__suse:before {
+  mask: url(/static/img/icon-suse-mask.png) no-repeat 100% 100%;
+  mask-size: cover;
+  height: 15px;
+  padding-bottom: 4px;
+}
