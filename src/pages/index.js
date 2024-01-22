@@ -86,7 +86,7 @@ sudo k3s kubectl get node `
       <div className={index.white}>
         <h2 className={index.textCenter}>Get Started</h2>
         <h5>
-          1. Download K3s - <a href="https://github.com/k3s-io/k3s/releases/latest">latest release</a>: x86_64, ARMv7, ARM64, and s390x are supported
+          1. Download K3s - <a href="https://github.com/k3s-io/k3s/releases/latest">latest release</a>: x86_64, ARMv7, and ARM64 are supported
           <br/>
           2. Run server
         </h5>
