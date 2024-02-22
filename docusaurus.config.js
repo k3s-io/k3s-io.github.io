@@ -44,7 +44,7 @@ module.exports = {
           type: 'dropdown',
           label: 'More From SUSE',
           position: 'right',
-          className: 'navbar__docs',
+          className: 'navbar__dropdown',
           items: [
             {
               label: 'Rancher',
