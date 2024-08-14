@@ -41,37 +41,18 @@ module.exports = {
           className: 'navbar__icon navbar__github',
         },
         {
-          type: 'dropdown',
-          label: 'More From SUSE',
+          to: '/community',
+          label: 'Community',
           position: 'right',
-          className: 'navbar__dropdown',
-          items: [
-            {
-              label: 'Rancher',
-              to: 'https://www.rancher.com',
-              className: 'navbar__icon navbar__rancher',
-            },
-            {
-              label: 'Rancher Desktop',
-              to: "https://rancherdesktop.io",
-              className: 'navbar__icon navbar__rd',
-            },
-            {
-              label: 'Longhorn',
-              to: "https://longhorn.io",
-              className: 'navbar__icon navbar__longhorn',
-            },
-            {
-              type: 'html',
-              value: '<hr style="margin: 0.3rem 0;">',
-            },
-            {
-              label: 'More Projects...',
-              to: "https://opensource.suse.com",
-              className: 'navbar__icon navbar__suse',
-            },
-          ],
+          className: 'navbar__icon navbar__community',
         },
+        {
+          to: 'blog',
+          label: 'Blog',
+          position: 'right',
+          className: 'navbar__icon navbar__blog',
+        },
+
       ],
     },
     footer: {
@@ -87,7 +68,6 @@ module.exports = {
       '@docusaurus/preset-classic',
       {
         docs: false,
-        blog: false, // Optional: disable the blog plugin
         // ...
         theme: {
           customCss: [require.resolve("./src/css/custom.css")],

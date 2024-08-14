@@ -105,8 +105,8 @@ sudo k3s agent --server https://myserver:6443 --token \${NODE_TOKEN}`
           <h2>Learn More</h2>
           <div className={index.gridTwo}>
             <div>
-              <p>Read the latest SUSE Rancher blog on K3s.</p>
-              <a href="https://www.suse.com/c/rancherblog/?product=4201#filtered" class="button button--lg button--static">Blog</a>
+              <p>Read the latest K3s blogs.</p>
+              <a href="/blog" class="button button--lg button--static">Blog</a>
             </div>
             <div>
               <p>Sign up for the latest "K3s Basics" Online Training.</p>
