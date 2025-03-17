@@ -41,6 +41,18 @@ module.exports = {
           className: 'navbar__icon navbar__github',
         },
         {
+          to: '/community',
+          label: 'Community',
+          position: 'right',
+          className: 'navbar__icon navbar__blog',
+        },
+        {
+          to: 'https://docs.k3s.io/blog',
+          label: 'Blog',
+          position: 'right',
+          className: 'navbar__icon navbar__blog',
+        },
+        {
           type: 'dropdown',
           label: 'More From SUSE',
           position: 'right',

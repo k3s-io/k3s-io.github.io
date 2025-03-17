@@ -92,3 +92,38 @@
   height: 15px;
   padding-bottom: 4px;
 }
+
+.navbar__community {
+  font-size: 18px;
+}
+
+.navbar__community:hover:before {
+  background-color: var(--ifm-link-color);
+}
+
+.navbar__community:before {
+  mask:  url(/static/img/community-logo.png) no-repeat 100% 100%;
+  mask-size: cover;
+  height: 19px;
+  width: 23px;
+  padding-right: 2px;
+  padding-bottom: 6px;
+}
+
+
+.navbar__blog {
+  font-size: 18px;
+}
+
+.navbar__blog:hover:before {
+  background-color: var(--ifm-link-color);
+}
+
+.navbar__blog:before {
+  mask:  url(/static/img/blog-logo.png) no-repeat 100% 100%;
+  mask-size: cover;
+  height: 19px;
+  width: 23px;
+  padding-right: 2px;
+  padding-bottom: 6px;
+}
