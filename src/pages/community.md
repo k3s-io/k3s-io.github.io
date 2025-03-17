@@ -9,8 +9,10 @@ hide_table_of_contents: false
 ## Community Meetings 
 
 We have two community meetings per month:
-Every Second Tuesday at 10:00 am PST
-Every Third Tuesday at 11:00 am CET
+
+Every **Second** Tuesday at 10:00 am PST.  
+Every **Third** Tuesday at 11:00 am CET.  
+
 Please find the evens here: [K3s Zoom Meetings](https://zoom-lfx.platform.linuxfoundation.org/meetings/k3s?view=week)
  
 We will use this meeting to communicate updates to the project, listen to feedback from the K3s community, and also collect requirement/use cases for new features.
@@ -34,9 +36,9 @@ Join <a href="https://slack.rancher.io"><img src="https://a.slack-edge.com/fd21d
 [#k3s-contributor](https://rancher-users.slack.com/archives/CGXR87T8B) - Contribution discussions
 
 ## Follow us!
-[Bluesky](https://bsky.app/profile/k3sio.bsky.social)
+BlueSky: [k3sio.bsky.social](https://bsky.app/profile/k3sio.bsky.social)
 
-[X](https://x.com/k3sio_io)
+X: [@k3sio_io](https://x.com/k3sio_io)
 
 📺 [YouTube](https://www.youtube.com/@k3sio): https://www.youtube.com/@k3sio
 
@@ -65,4 +67,4 @@ If you are adopter and want your logo to be shown here please open PR against: h
 ---
 
 ## Organization Contributing
-<a href="https://opensource.suse.com/"><img src="https://storage-us-gcs.bfldr.com/rt34bfbxpqh4mchnbhtfhq75/v/1230606427/original/SUSE_Logo-hor_L_Green-pos_sRGB.jpg?Expires=1742300189&KeyName=gcs-bfldr-prod&Signature=bXqJBONsCT5fX037q6yt-0GuNJk=" alt="slack" width="250"/></a>
+[![SUSE](/img/suse-logo.png)](https://opensource.suse.com)
