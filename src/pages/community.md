@@ -8,11 +8,16 @@ hide_table_of_contents: false
 
 ## Community Meetings 
 
-We have a recurring bi-weekly **K3s** community meeting at ___TIME HERE___ time zone. We will use this meeting to communicate updates to the project, listen to feedback from the K3s community, and also collect requirement/use cases for new features.
+We have two community meetings per month:
+Every Second Tuesday at 10:00 am PST
+Every Third Tuesday at 11:00 am CET
+Please find the evens here: [K3s Zoom Meetings](https://zoom-lfx.platform.linuxfoundation.org/meetings/k3s?view=week)
+ 
+We will use this meeting to communicate updates to the project, listen to feedback from the K3s community, and also collect requirement/use cases for new features.
 
 Meeting Minutes notes: https://hackmd.io/@k3s/meet-notes/
 
-📺 YouTube Recordings: YOUTUBE_HERE
+📺 YouTube Recordings: [K3s YouTube](https://www.youtube.com/@k3sio)
 
 ---
 
@@ -29,11 +34,11 @@ Join <a href="https://slack.rancher.io"><img src="https://a.slack-edge.com/fd21d
 [#k3s-contributor](https://rancher-users.slack.com/archives/CGXR87T8B) - Contribution discussions
 
 ## Follow us!
-Bluesky:
+[Bluesky](https://bsky.app/profile/k3sio.bsky.social)
 
-X:
+[X](https://x.com/k3sio_io)
 
-📺 YouTube:
+📺 [YouTube](https://www.youtube.com/@k3sio): https://www.youtube.com/@k3sio
 
 ---
 ## Want to contribute to the codebase or documentation?
