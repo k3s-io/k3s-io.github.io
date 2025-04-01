@@ -13,7 +13,7 @@ We have two community meetings per month:
 Every **Second** Tuesday at 10:00 am PST.  
 Every **Third** Tuesday at 11:00 am CET.  
 
-Please find the evens here: [K3s Zoom Meetings](https://zoom-lfx.platform.linuxfoundation.org/meetings/k3s?view=week)
+Meeting join links can be found on the [Linux Foundation Project Calendar](https://zoom-lfx.platform.linuxfoundation.org/meetings/k3s?view=week).
  
 We will use this time to communicate project updates, listen to feedback from the K3s community, and collect requirement/use cases for new features. Note: this is not a time to seek technical support or assistance in troubleshooting issues.
 
