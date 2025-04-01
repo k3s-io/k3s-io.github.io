@@ -38,7 +38,7 @@ Join <a href="https://slack.rancher.io"><img src="https://a.slack-edge.com/fd21d
 ## Follow us!
 BlueSky: [k3sio.bsky.social](https://bsky.app/profile/k3sio.bsky.social)
 
-X: [@k3sio_io](https://x.com/k3sio_io)
+Mastodon: [@k3sio](https://mastodon.social/@k3sio)
 
 📺 [YouTube](https://www.youtube.com/@k3sio): https://www.youtube.com/@k3sio
 
