@@ -54,33 +54,19 @@ module.exports = {
         },
         {
           type: 'dropdown',
-          label: 'More From SUSE',
+          label: 'More From CNCF',
           position: 'right',
           className: 'navbar__dropdown',
           items: [
-            {
-              label: 'Rancher',
-              to: 'https://www.rancher.com',
-              className: 'navbar__icon navbar__rancher',
-            },
-            {
-              label: 'Rancher Desktop',
-              to: "https://rancherdesktop.io",
-              className: 'navbar__icon navbar__rd',
-            },
             {
               label: 'Longhorn',
               to: "https://longhorn.io",
               className: 'navbar__icon navbar__longhorn',
             },
             {
-              type: 'html',
-              value: '<hr style="margin: 0.3rem 0;">',
-            },
-            {
-              label: 'More Projects...',
-              to: "https://opensource.suse.com",
-              className: 'navbar__icon navbar__suse',
+              label: 'Kubewarden',
+              to: "https://kubewarden.io",
+              className: 'navbar__icon navbar__kubewarden',
             },
           ],
         },
