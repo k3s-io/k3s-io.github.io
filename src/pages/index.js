@@ -101,19 +101,6 @@ sudo k3s agent --server https://myserver:6443 --token \${NODE_TOKEN}`
         }</CodeBlock>
       </div>
       <div className={`${index.learnMore} ${index.bgPrimary}`}>
-        <div className={index.wrap}>
-          <h2>Learn More</h2>
-          <div className={index.gridTwo}>
-            <div>
-              <p>Read the latest K3s blog.</p>
-              <a href="https://docs.k3s.io/blog" class="button button--lg button--static">Blog</a>
-            </div>
-            <div>
-              <p>Sign up for the latest "K3s Basics" Online Training.</p>
-              <a href="https://www.rancher.academy/courses/k3s-basics" class="button button--lg button--static">Watch Training</a>
-            </div>
-          </div>
-        </div>
       </div>
     </section>
     <section className={`${index.bgLight} ${index.cncf} ${index.textCenter}`}>

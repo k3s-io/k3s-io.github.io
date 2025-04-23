@@ -83,6 +83,15 @@
   padding-bottom: 9px;
 }
 
+.navbar__kubewarden:hover:before {
+  background-color: #bc2a46;
+}
+.navbar__kubewarden:before {
+  mask: url(/static/img/icon-kubewarden-mask.png) no-repeat 100% 100%;
+  mask-size: cover;
+  height: 22px;
+}
+
 .navbar__suse:hover:before {
   background-color: #30ba78;
 }
