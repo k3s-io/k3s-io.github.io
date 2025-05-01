@@ -114,3 +114,16 @@ hr {
   padding: 0 var(--ifm-pre-padding);
 }
 
+/**
+* There's -32px margin right is getting added to footer; probably upstream theme
+* So, this is just workaround to fix layout issue on mobile screens
+*/
+footer .container.container-fluid {
+  margin-right: 0 !important;
+  margin-left: 0 !important;
+  padding: 0 !important;
+}
+
+footer .footer__copyright{
+    padding: 0 16px;
+}
