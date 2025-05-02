@@ -40,6 +40,8 @@ BlueSky: [k3sio.bsky.social](https://bsky.app/profile/k3sio.bsky.social)
 
 Mastodon: [@k3sio](https://mastodon.social/@k3sio)
 
+X: [@k3sio_io](https://x.com/k3sio_io)
+
 📺 [YouTube](https://www.youtube.com/@k3sio): https://www.youtube.com/@k3sio
 
 ---
@@ -62,8 +64,7 @@ You can follow the work we plan to do using the [K3s Roadmap](https://github.com
 
 If you are adopter and want your logo to be shown here please open PR against: https://github.com/k3s-io/k3s/blob/master/ADOPTERS.md
 
-[![Rocket Chat](https://cdn.prod.website-files.com/611a19b9853b7414a0f6b3f6/611bbb87319adfd903b90f24_logoRC.svg)](https://www.rocket.chat/)<a href="[default.asp](https://ayedo.de/)"><img src="https://ayedo.de/ayedo-logo-color.png" alt="drawing" width="150"/></a>[![Pits](https://www.pitsdatarecovery.com/wp-content/uploads/2024/08/PITS-logo_v2.svg)](https://www.pitsdatarecovery.com/)
-
+[![Rocket Chat](https://cdn.prod.website-files.com/611a19b9853b7414a0f6b3f6/611bbb87319adfd903b90f24_logoRC.svg)](https://www.rocket.chat/)<a href="https://ayedo.de/"><img src="https://ayedo.de/ayedo-logo-color.png" alt="drawing" width="150"/></a>[![Pits](https://www.pitsdatarecovery.com/wp-content/uploads/2024/08/PITS-logo_v2.svg)](https://www.pitsdatarecovery.com/)<a href="https://www.externalsecrets.com/"><img src="https://cdn.prod.website-files.com/67e58472f7387d5202b71e35/67e590086adf6b807bee1e6e_es-logo.svg" alt="drawing" width="130"/></a>
 ---
 
 ## Organization Contributing
