@@ -36,6 +36,8 @@ Join <a href="https://slack.rancher.io"><img src="https://a.slack-edge.com/fd21d
 [#k3s-contributor](https://rancher-users.slack.com/archives/CGXR87T8B) - Contribution discussions
 
 ## Follow us!
+LinkedIn: [k3sio](https://linkedin.com/company/k3sio)
+
 BlueSky: [k3sio.bsky.social](https://bsky.app/profile/k3sio.bsky.social)
 
 Mastodon: [@k3sio](https://mastodon.social/@k3sio)
