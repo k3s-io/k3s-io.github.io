@@ -62,10 +62,58 @@ You can follow the work we plan to do using the [K3s Roadmap](https://github.com
 
 ## K3s Adopters
 
-If you are adopter and want your logo to be shown here please open PR against: https://github.com/k3s-io/k3s/blob/master/ADOPTERS.md
 
-[![Rocket Chat](https://cdn.prod.website-files.com/611a19b9853b7414a0f6b3f6/611bbb87319adfd903b90f24_logoRC.svg)](https://www.rocket.chat/)<a href="[default.asp](https://ayedo.de/)"><img src="https://ayedo.de/ayedo-logo-color.png" alt="drawing" width="150"/></a>[![Pits](https://www.pitsdatarecovery.com/wp-content/uploads/2024/08/PITS-logo_v2.svg)](https://www.pitsdatarecovery.com/)
-<a href="https://www.uffizzi.com/"><img src="https://cdn.prod.website-files.com/636dbee261df29d4438db278/637680bb6cfab675d6c91e52_header-logo-black.svg" alt="drawing" width="150"/></a><a href="https://kairos.io/"><img src="https://github.com/cncf/artwork/blob/main/projects/kairos/horizontal/color/kairos-horizontal-color.png?raw=true" alt="kairos logo" width="150"/></a>
+<Columns>
+  <Column>
+    <Card style={{width: '150px'}}>
+      <CardImage style={{height: '150px'}} cardImageUrl='https://cdn.prod.website-files.com/611a19b9853b7414a0f6b3f6/611bbb87319adfd903b90f24_logoRC.svg'/>
+      <CardFooter style={{ backgroundColor: '#ffc61c' }} className='text--center'>
+        <a href="https://www.rocket.chat/" target="_blank" className='button button--info'>Website</a>
+      </CardFooter>
+    </Card>
+  </Column>
+  <Column>
+    <Card style={{width: '150px'}}>
+      <CardImage cardImageUrl='https://ayedo.de/ayedo-logo-color.png'/>
+      <CardFooter style={{ backgroundColor: '#ffc61c' }} className='text--center'>
+          <a href="https://ayedo.de/" target="_blank" className='button button--info'>Website</a>
+      </CardFooter>
+    </Card>
+  </Column>
+  <Column>
+    <Card style={{width: '150px'}}>
+      <CardImage style={{height: '150px'}} cardImageUrl='https://www.pitsdatarecovery.com/wp-content/uploads/2024/08/PITS-logo_v2.svg'/>
+      <CardFooter style={{ backgroundColor: '#ffc61c' }} className='text--center'>
+          <a href="https://www.pitsdatarecovery.com/" target="_blank" className='button button--info'>Website</a>
+      </CardFooter>
+    </Card>
+  </Column>
+</Columns>
+<br/>
+<Columns>
+  <Column>
+    <Card style={{width: '150px'}}>
+      <CardImage style={{height: '150px'}} cardImageUrl='https://cdn.prod.website-files.com/636dbee261df29d4438db278/637680bb6cfab675d6c91e52_header-logo-black.svg'/>
+      <CardFooter style={{ backgroundColor: '#ffc61c' }} className='text--center'>
+          <a href="https://www.uffizzi.com/" target="_blank" className='button button--info'>Website</a>
+      </CardFooter>
+    </Card>
+  </Column>
+  <Column>
+    <Card style={{width: '150px'}}>
+      <CardImage style={{height: '150px'}} cardImageUrl='https://github.com/cncf/artwork/blob/main/projects/kairos/stacked/color/kairos-stacked-color.svg?raw=true'/>
+      <CardFooter style={{ backgroundColor: '#ffc61c' }} className='text--center'>
+          <a href="https://kairos.io/" target="_blank" className='button button--info'>Website</a>
+      </CardFooter>
+    </Card>
+  </Column>
+  <!-- Blank for future adopters -->
+  <Column>
+  </Column>
+</Columns>
+
+<br/>
+If you are adopter and want your logo to be shown here please open PR against: https://github.com/k3s-io/k3s/blob/master/ADOPTERS.md
 
 ---
 
