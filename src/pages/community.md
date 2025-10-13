@@ -19,7 +19,7 @@ We will use this time to communicate project updates, listen to feedback from th
 
 Meeting Minutes notes: https://hackmd.io/@k3s/meet-notes/
 
-📺 YouTube Recordings: [K3s YouTube](https://www.youtube.com/@k3sio)
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="slack" width="20"/> YouTube Recordings: [K3s YouTube](https://www.youtube.com/@k3sio)
 
 ---
 
@@ -42,7 +42,7 @@ BlueSky: [k3sio.bsky.social](https://bsky.app/profile/k3sio.bsky.social)
 
 Mastodon: [@k3sio](https://mastodon.social/@k3sio)
 
-📺 [YouTube](https://www.youtube.com/@k3sio): https://www.youtube.com/@k3sio
+YouTube: [@k3sio](https://www.youtube.com/@k3sio)
 
 ---
 ## Want to contribute to the codebase or documentation?
@@ -107,11 +107,26 @@ You can follow the work we plan to do using the [K3s Roadmap](https://github.com
       </CardFooter>
     </Card>
   </Column>
-  <!-- Blank for future adopters -->
   <Column>
+    <Card style={{width: '150px'}}>
+      <CardImage style={{height: '150px'}} cardImageUrl='https://cdn.prod.website-files.com/67e58472f7387d5202b71e35/67e590086adf6b807bee1e6e_es-logo.svg'/>
+      <CardFooter style={{ backgroundColor: '#ffc61c' }} className='text--center'>
+          <a href="https://www.externalsecrets.com/" target="_blank" className='button button--info'>Website</a>
+      </CardFooter>
+    </Card>
   </Column>
 </Columns>
-
+<br/>
+<Columns>
+  <Column>
+    <Card style={{width: '150px'}}>
+      <CardImage style={{height: '150px'}} cardImageUrl='https://yt3.googleusercontent.com/ytc/AIdro_kEhdYNMhTKrqW0Vjh63oUhd4AWitqdN69mkqIvdbWlIP8=s160-c-k-c0x00ffffff-no-rj'/>
+      <CardFooter style={{ backgroundColor: '#ffc61c' }} className='text--center'>
+          <a href="https://childrescuecoalition.org/" target="_blank" className='button button--info'>Website</a>
+      </CardFooter>
+    </Card>
+  </Column>
+</Columns>
 <br/>
 If you are adopter and want your logo to be shown here please open PR against: https://github.com/k3s-io/k3s/blob/master/ADOPTERS.md
 
