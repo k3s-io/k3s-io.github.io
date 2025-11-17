@@ -65,65 +65,64 @@ You can follow the work we plan to do using the [K3s Roadmap](https://github.com
 
 <Columns>
   <Column>
-    <Card style={{width: '150px'}}>
-      <CardImage style={{height: '150px'}} cardImageUrl='https://cdn.prod.website-files.com/611a19b9853b7414a0f6b3f6/611bbb87319adfd903b90f24_logoRC.svg'/>
-      <CardFooter style={{ backgroundColor: '#ffc61c' }} className='text--center'>
-        <a href="https://www.rocket.chat/" target="_blank" className='button button--info'>Website</a>
-      </CardFooter>
+    <Card style={{width: '150px', height: '150px', backgroundColor: '#ffffff'}}>
+      <CardImage style={{height: '150px', width: '140px', paddingLeft: '5px'}}
+        cardImageUrl='https://cdn.prod.website-files.com/611a19b9853b7414a0f6b3f6/611bbb87319adfd903b90f24_logoRC.svg'
+        href="https://www.rocket.chat/"
+      />
     </Card>
   </Column>
   <Column>
-    <Card style={{width: '150px'}}>
-      <CardImage cardImageUrl='https://ayedo.de/ayedo-logo-color.png'/>
-      <CardFooter style={{ backgroundColor: '#ffc61c' }} className='text--center'>
-          <a href="https://ayedo.de/" target="_blank" className='button button--info'>Website</a>
-      </CardFooter>
+    <Card style={{width: '150px', backgroundColor: '#ffffff'}}>
+      <CardImage
+        cardImageUrl='https://ayedo.de/ayedo-logo-color.png'
+        href="https://ayedo.de/"
+        />
     </Card>
   </Column>
   <Column>
-    <Card style={{width: '150px'}}>
-      <CardImage style={{height: '150px'}} cardImageUrl='https://www.pitsdatarecovery.com/wp-content/uploads/2024/08/PITS-logo_v2.svg'/>
-      <CardFooter style={{ backgroundColor: '#ffc61c' }} className='text--center'>
-          <a href="https://www.pitsdatarecovery.com/" target="_blank" className='button button--info'>Website</a>
-      </CardFooter>
-    </Card>
-  </Column>
-</Columns>
-<br/>
-<Columns>
-  <Column>
-    <Card style={{width: '150px'}}>
-      <CardImage style={{height: '150px'}} cardImageUrl='https://cdn.prod.website-files.com/636dbee261df29d4438db278/637680bb6cfab675d6c91e52_header-logo-black.svg'/>
-      <CardFooter style={{ backgroundColor: '#ffc61c' }} className='text--center'>
-          <a href="https://www.uffizzi.com/" target="_blank" className='button button--info'>Website</a>
-      </CardFooter>
-    </Card>
-  </Column>
-  <Column>
-    <Card style={{width: '150px'}}>
-      <CardImage style={{height: '150px'}} cardImageUrl='https://github.com/cncf/artwork/blob/main/projects/kairos/stacked/color/kairos-stacked-color.svg?raw=true'/>
-      <CardFooter style={{ backgroundColor: '#ffc61c' }} className='text--center'>
-          <a href="https://kairos.io/" target="_blank" className='button button--info'>Website</a>
-      </CardFooter>
-    </Card>
-  </Column>
-  <Column>
-    <Card style={{width: '150px'}}>
-      <CardImage style={{height: '150px'}} cardImageUrl='https://cdn.prod.website-files.com/67e58472f7387d5202b71e35/67e590086adf6b807bee1e6e_es-logo.svg'/>
-      <CardFooter style={{ backgroundColor: '#ffc61c' }} className='text--center'>
-          <a href="https://www.externalsecrets.com/" target="_blank" className='button button--info'>Website</a>
-      </CardFooter>
+    <Card style={{width: '150px', height: '150px', backgroundColor: '#ffffff'}}>
+      <CardImage style={{height: '150px', width: '140px', paddingLeft: '5px'}} 
+        cardImageUrl='https://www.pitsdatarecovery.com/wp-content/uploads/2024/08/PITS-logo_v2.svg'
+        href="https://www.pitsdatarecovery.com/"
+      />
     </Card>
   </Column>
 </Columns>
 <br/>
 <Columns>
   <Column>
-    <Card style={{width: '150px'}}>
-      <CardImage style={{height: '150px'}} cardImageUrl='https://yt3.googleusercontent.com/ytc/AIdro_kEhdYNMhTKrqW0Vjh63oUhd4AWitqdN69mkqIvdbWlIP8=s160-c-k-c0x00ffffff-no-rj'/>
-      <CardFooter style={{ backgroundColor: '#ffc61c' }} className='text--center'>
-          <a href="https://childrescuecoalition.org/" target="_blank" className='button button--info'>Website</a>
-      </CardFooter>
+    <Card style={{width: '150px', height: '150px', backgroundColor: '#ffffff'}}>
+      <CardImage style={{height: '150px', width: '140px', paddingLeft: '5px'}} 
+        href="https://www.uffizzi.com/" 
+        cardImageUrl='https://cdn.prod.website-files.com/636dbee261df29d4438db278/637680bb6cfab675d6c91e52_header-logo-black.svg'
+      />
+    </Card>
+  </Column>
+  <Column>
+    <Card style={{width: '150px', height: '150px', backgroundColor: '#ffffff'}}>
+      <CardImage style={{height: '140px', width: '140px', paddingLeft: '5px', paddingTop: '5px'}} 
+      cardImageUrl='https://github.com/cncf/artwork/blob/main/projects/kairos/stacked/color/kairos-stacked-color.svg?raw=true'
+      href="https://kairos.io/"
+      />
+    </Card>
+  </Column>
+  <Column>
+    <Card style={{width: '150px', height: '150px', backgroundColor: '#ffffff'}}>
+      <CardImage style={{height: '140px', width: '140px', paddingLeft: '5px', paddingTop: '5px'}} 
+      cardImageUrl='https://cdn.prod.website-files.com/67e58472f7387d5202b71e35/67e590086adf6b807bee1e6e_es-logo.svg'
+      href="https://www.externalsecrets.com/"
+      />
+    </Card>
+  </Column>
+</Columns>
+<br/>
+<Columns>
+  <Column>
+    <Card style={{width: '150px', height: '150px'}}>
+      <CardImage style={{height: '150px'}} cardImageUrl='https://yt3.googleusercontent.com/ytc/AIdro_kEhdYNMhTKrqW0Vjh63oUhd4AWitqdN69mkqIvdbWlIP8=s160-c-k-c0x00ffffff-no-rj'
+      href="https://childrescuecoalition.org/"
+    />
     </Card>
   </Column>
 </Columns>
