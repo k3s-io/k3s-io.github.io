@@ -3,7 +3,7 @@ Below is used for the k3s.io landing page
 ----------------------------------*/
 
 * {
- box-sizing:inherit
+  box-sizing: border-box
 }
 
 .bgPrimary {
